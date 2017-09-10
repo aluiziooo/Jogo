@@ -6,9 +6,6 @@ public abstract class Personagem {
 	
 	private ArmaIF arma;
 	
-	public void correr(){
-		System.out.println("Não posso correr");
-	}
 	public abstract void desenhar();
 	
 
